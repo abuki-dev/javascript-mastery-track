@@ -1,0 +1,21 @@
+{
+  "name": "javascript-mastery-track",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abuki-dev/javascript-mastery-track.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abuki-dev/javascript-mastery-track/issues"
+  },
+  "homepage": "https://github.com/abuki-dev/javascript-mastery-track#readme"
+}
